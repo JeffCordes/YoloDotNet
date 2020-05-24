@@ -3,3 +3,9 @@
 ################################################################################
 
 /MLNetSamples/.vs/MLNetSamples
+/MLNetSamples/MLNetSamplesApi/MLModels/Yolo/yolov2-coco-9.onnx
+/MLNetSamples/MLNetSamplesApi/bin/Debug/netcoreapp3.1
+/MLNetSamples/MLNetSamplesApi/obj/Debug/netcoreapp3.1
+/MLNetSamples/MLNetSamplesCore/bin/Debug/netstandard2.1
+/MLNetSamples/MLNetSamplesCore/obj
+/MLNetSamples/MLNetSamplesApi/obj
