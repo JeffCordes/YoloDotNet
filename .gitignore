@@ -9,3 +9,8 @@
 /MLNetSamples/MLNetSamplesCore/bin/Debug/netstandard2.1
 /MLNetSamples/MLNetSamplesCore/obj
 /MLNetSamples/MLNetSamplesApi/obj
+YoloDotNet/YoloDotNetApi/obj/Debug/netcoreapp3.1/project.razor.json
+YoloDotNet/YoloDotNetApi/obj/Debug/netcoreapp3.1/YoloDotNetApi.AssemblyInfo.cs
+YoloDotNet/YoloDotNetApi/obj/Debug/netcoreapp3.1/YoloDotNetApi.csprojAssemblyReference.cache
+YoloDotNet/YoloDotNetApi/obj/Debug/netcoreapp3.1/YoloDotNetApi.AssemblyInfoInputs.cache
+YoloDotNet/YoloDotNetApi/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
