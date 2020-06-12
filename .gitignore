@@ -2,6 +2,20 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+
+/YoloDotNet/.vs/MLNetSamples
+/YoloDotNet/YoloDotNetApi/MLModels/Yolo/yolov2-coco-9.onnx
+/YoloDotNet/YoloDotNetApi/bin/Debug/netcoreapp3.1
+YoloDotNetApi/bin/Debug/netcoreapp3.1/
+YoloDotNetApi/obj/Debug/netcoreapp3.1/
+/YoloDotNet/YoloDotNetApi/obj/Debug/netcoreapp3.1
+/YoloDotNet/YoloDotNetApi/obj
+YoloDotNet/.vs
+.DS_Store
+.vs/slnx.sqlite
+.vs/ProjectSettings.json
+.vs/VSWorkspaceState.json
+
 /MLNetSamples/.vs/MLNetSamples
 /MLNetSamples/MLNetSamplesApi/MLModels/Yolo/yolov2-coco-9.onnx
 /MLNetSamples/MLNetSamplesApi/bin/Debug/netcoreapp3.1
@@ -14,3 +28,4 @@ YoloDotNet/YoloDotNetApi/obj/Debug/netcoreapp3.1/YoloDotNetApi.AssemblyInfo.cs
 YoloDotNet/YoloDotNetApi/obj/Debug/netcoreapp3.1/YoloDotNetApi.csprojAssemblyReference.cache
 YoloDotNet/YoloDotNetApi/obj/Debug/netcoreapp3.1/YoloDotNetApi.AssemblyInfoInputs.cache
 YoloDotNet/YoloDotNetApi/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+
